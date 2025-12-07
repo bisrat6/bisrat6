@@ -1,4 +1,4 @@
-# Bisrat Beriso— Junior Software Developer  
+# Bisrat Beriso— Software Developer  
 **React • TypeScript • Next.js • Node.js • Modern Web & Full-Stack Development**
 
 Addis Ababa, Ethiopia · B.Sc. Software Engineering Student at Addis Ababa University · Interning at iCog Labs (AI & Robotics R&D)
