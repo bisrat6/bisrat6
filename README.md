@@ -5,7 +5,7 @@ Addis Ababa, Ethiopia | B.Sc. in Software Engineering, Addis Ababa University (E
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisrat-beriso)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bisrat6)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://bisratberiso.vercel.app)  <!-- Add your actual portfolio link if available -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://bisratberiso.netlify.app)  <!-- Add your actual portfolio link if available -->
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -22,27 +22,27 @@ As an intern at iCog Labs, I contribute to AI-integrated tools and robotics R&D,
 
 ## 🛠️ Tech Stack
 - **Languages**: JavaScript, TypeScript, Python, HTML/CSS, SQL
-- **Frontend**: React, Next.js 14 (App Router), Tailwind CSS, shadcn/ui, Bootstrap, Framer Motion
+- **Frontend**: React, Next.js 14 (App Router), Tailwind CSS, shadcn/ui
 - **Backend**: Node.js, Express.js, RESTful APIs
-- **Data & State Management**: React Query, Context API, Databases (SQL, MongoDB)
+- **Data & State Management**: React Query, Context API, Databases (Postgress, MongoDB)
 - **Tools & Platforms**: Git/GitHub, VS Code, Postman, Vercel, Netlify, Figma
 - **Other Skills**: Embedded Systems, Version Control, Agile Methodologies, File I/O & Hashing (C++), Performance Optimization
 
 ## 📊 GitHub Stats
-![Bisrat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bisrat6&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bisrat6&theme=transparent&hide_border=true&layout=compact)
+![Bisrat's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=bisrat6&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)  
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bisrat6&theme=transparent&hide_border=true&layout=compact)
 
 ## 🚀 Projects
 Selected projects demonstrating full-stack expertise, API integrations, and user-centric design:
 
-| Project | Description | Technologies | Stats | Live Demo |
-|---------|-------------|--------------|-------|-----------|
-| 🎥 **Tewnet** | Movie discovery app with search, reviews, watchlists, and TMDB API for real-time data—boosting user retention. | React, Next.js, Tailwind CSS, TMDB API | ⭐ 25 | [tewnet.vercel.app](https://tewnet.vercel.app) |
-| 🌍 **Etxplore** | Interactive travel platform with maps and destination tools for seamless exploration and planning. | Next.js, Tailwind CSS, Maps API | ⭐ 15 | [etxplore.vercel.app](https://etxplore-frontend.vercel.app/) |
-| 🎟️ **CayvenEvents** | Event management system with real-time updates, ticketing, and secure payments for efficient organization. | React, Node.js, Express.js, MongoDB | ⭐ 30 | [cayvenevents.vercel.app](https://cayven-event.vercel.app/) |
-| 🎨 **ZYN Designs Co.** | Animated agency portfolio with responsive design, dark/light modes, and smooth animations. | Next.js, Framer Motion, Tailwind CSS | ⭐ 40 | [zyndesigns.co](https://zyndesigns.vercel.app/) |
-| ⚖️ **Legalink** | Secure legal case management tool with authentication, tracking, and RESTful APIs. | Node.js, Express.js, SQL | – | – |
-| 🚍 **Local Transport Ticketing** | Hardware-integrated ticketing system for queue management in public transport. | C++, Python, Embedded Systems | – | – |
+| Project | Description | Technologies | Live Demo |
+|---------|-------------|--------------|-----------|
+| 🎥 **Tewnet** | Movie discovery app with search, reviews, watchlists, and TMDB API for real-time data—boosting user retention. | React, Tailwind CSS, TMDB API |[tewnet.vercel.app](https://tewnet.vercel.app) |
+| 🏠 **Hulet Fish** | Platform connecting travelers with local hosts in Ethiopia for authentic stays and cultural experiences. |React,JavaScript, Tailwind CSS,Node.js,Express,MongoDB | huletfish.vercel.app |
+| 🍕 **Pizzeria Paradiso** | Interactive pizzeria website offering authentic Italian wood-fired pizzas crafted with premium ingredients, blending traditional recipes and modern flavors, with a user-friendly welcome prompt. | React, Tailwind CSS, Redux Toolkit, Geocoding API | repizzaa.netlify.app |
+| 🎨 **ZYN Designs Co.** | Portfolio website for ZYN Interior Design (Addis Ababa). Includes services, portfolio, testimonials, and a contact form with EmailJS, showcasing luxury, craftsmanship, and personalized design. | React,vite,JavaScript,CSS3,Swiper,EmailJS,FontAwesome | [zyndesigns.co](https://zyndesigns.vercel.app/) |
+| ⚖️ **Legalink** | Secure legal case management tool with authentication, tracking, and RESTful APIs. | Node.js, Express.js, Postgress | – |
+| 🚍 **Local Transport Ticketing** | Hardware-integrated ticketing system for queue management in public transport. | Java, Embedded Systems(arduino) | – |
 
 ## 🌱 Currently Learning
 - React Server Components and Server Actions in Next.js 14+
@@ -52,9 +52,8 @@ Selected projects demonstrating full-stack expertise, API integrations, and user
 - Web performance optimization (aiming for Lighthouse scores of 100)
 
 ## 📫 Get in Touch
-- **Email**: bisratberiso@example.com  <!-- Replace with your actual email -->
+- **Email**: bisratberiso@gmail.com
 - **LinkedIn**: [linkedin.com/in/bisrat-beriso](https://www.linkedin.com/in/bisrat-beriso)
-- **Twitter/X**: [@bisratberiso](https://twitter.com/bisratberiso)  <!-- Add if available -->
 
 Feel free to reach out for collaborations, opportunities, or discussions on tech!
 
