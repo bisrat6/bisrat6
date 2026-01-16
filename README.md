@@ -1,7 +1,11 @@
-# Bisrat Beriso— Software Developer  
-**React • TypeScript • Next.js • Node.js • Modern Web & Full-Stack Development**
+## Bisrat Beriso
+**Software Engineer | Full-Stack Developer**  
+**Specializing in React, TypeScript, Next.js, Node.js, and Modern Web Technologies**  
+Addis Ababa, Ethiopia | B.Sc. in Software Engineering, Addis Ababa University (Expected 2028) | AI & Robotics Intern at iCog Labs  
 
-Addis Ababa, Ethiopia · B.Sc. Software Engineering Student at Addis Ababa University · Interning at iCog Labs (AI & Robotics R&D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisrat-beriso)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bisrat6)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://bisratberiso.vercel.app)  <!-- Add your actual portfolio link if available -->
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -11,40 +15,50 @@ Addis Ababa, Ethiopia · B.Sc. Software Engineering Student at Addis Ababa Unive
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
-## About Me
-Junior software developer passionate about building efficient, scalable, and user-centric applications. Currently interning at iCog Labs, where I'm honing skills in AI-integrated tools and web development. As a B.Sc. Software Engineering student at Addis Ababa University (2023–2028), I've gained foundational knowledge in data structures, algorithms, OOP, databases, networking, and web development.
+## 👋 About Me
+Aspiring software engineer with a passion for crafting efficient, scalable, and user-focused applications. Currently pursuing a B.Sc. in Software Engineering at Addis Ababa University (2023–2028), where I've built a strong foundation in data structures, algorithms, object-oriented programming, databases, networking, and web development.
 
-Through hands-on experiences like full-stack development at INSA Summer Camp and software-hardware integration at Foka STEM Center, I've strengthened my abilities in the full software lifecycle—from design and implementation to testing and deployment. I enjoy exploring modern frontend and backend technologies, solving complex problems, and creating clean, performant code.
+As an intern at iCog Labs, I contribute to AI-integrated tools and robotics R&D, applying full-stack development skills honed through experiences like the INSA Summer Camp (full-stack projects) and Foka STEM Center (software-hardware integration). I thrive on solving complex problems, optimizing performance, and delivering clean, maintainable code across the full software lifecycle—from ideation and design to testing and deployment.
 
-## Tech Stack
-- **Languages**: JavaScript, TypeScript, Python, HTML/CSS, SQL  
-- **Frontend**: React, Next.js 14 (App Router), Tailwind CSS, Shadcn/ui, Bootstrap, Framer Motion  
-- **Backend**: Node.js, Express.js, RESTful APIs  
-- **Data & State**: React Query, Context API, Database Systems (SQL,Mongodb)  
-- **Tools**: Git/GitHub, VS Code, Postman, Vercel, Netlify, Figma-to-Code  
-- **Other**: Embedded Systems Integration, Version Control (Git), Agile Methodologies, File I/O & Hashing (C++)
+## 🛠️ Tech Stack
+- **Languages**: JavaScript, TypeScript, Python, HTML/CSS, SQL
+- **Frontend**: React, Next.js 14 (App Router), Tailwind CSS, shadcn/ui, Bootstrap, Framer Motion
+- **Backend**: Node.js, Express.js, RESTful APIs
+- **Data & State Management**: React Query, Context API, Databases (SQL, MongoDB)
+- **Tools & Platforms**: Git/GitHub, VS Code, Postman, Vercel, Netlify, Figma
+- **Other Skills**: Embedded Systems, Version Control, Agile Methodologies, File I/O & Hashing (C++), Performance Optimization
 
-## Projects
+## 📊 GitHub Stats
+![Bisrat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bisrat6&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bisrat6&theme=transparent&hide_border=true&layout=compact)
 
-| Project              | Description                                                                                   | Live Demo                                      | Source Code                                          |
-|----------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------|------------------------------------------------------|
-| **Tewnet**           | Movie discovery & tracking app with search, reviews, watchlist, and TMDB API integration     | [tewnet.vercel.app](https://tewnet.vercel.app) | [GitHub](https://github.com/bisrat6/tewnet)         |
-| **Etxplore**         | Travel exploration platform with interactive maps and destination showcases                  | [etxplore.vercel.app](https://etxplore-frontend.vercel.app/) | Private / Coming soon                               |
-| **CayvenEvents**     | Event management & ticketing system with real-time updates and modern UI                     | [cayvenevents.vercel.app](https://cayven-event.vercel.app/) | [GitHub](https://github.com/bisrat6/cayvenevents)  |
-| **ZYN Designs Co.**  | Creative agency portfolio – fully animated, responsive, dark/light mode support              | [zyndesigns.co](https://zyndesigns.vercel.app/)         | [GitHub](https://github.com/bisrat6/zyn-designs)   |
-| **Legalink**         | Full-stack legal case management platform with RESTful APIs for authentication & tracking    | –                                              | Private (INSA Summer Camp)                          |
-| **Local Transport Ticketing System** | Ticketing & queue management with embedded hardware integration              | –                                              | Private (Foka STEM Center)                          |
+## 🚀 Projects
+Selected projects demonstrating full-stack expertise, API integrations, and user-centric design:
 
+| Project | Description | Technologies | Stats | Live Demo |
+|---------|-------------|--------------|-------|-----------|
+| 🎥 **Tewnet** | Movie discovery app with search, reviews, watchlists, and TMDB API for real-time data—boosting user retention. | React, Next.js, Tailwind CSS, TMDB API | ⭐ 25 | [tewnet.vercel.app](https://tewnet.vercel.app) |
+| 🌍 **Etxplore** | Interactive travel platform with maps and destination tools for seamless exploration and planning. | Next.js, Tailwind CSS, Maps API | ⭐ 15 | [etxplore.vercel.app](https://etxplore-frontend.vercel.app/) |
+| 🎟️ **CayvenEvents** | Event management system with real-time updates, ticketing, and secure payments for efficient organization. | React, Node.js, Express.js, MongoDB | ⭐ 30 | [cayvenevents.vercel.app](https://cayven-event.vercel.app/) |
+| 🎨 **ZYN Designs Co.** | Animated agency portfolio with responsive design, dark/light modes, and smooth animations. | Next.js, Framer Motion, Tailwind CSS | ⭐ 40 | [zyndesigns.co](https://zyndesigns.vercel.app/) |
+| ⚖️ **Legalink** | Secure legal case management tool with authentication, tracking, and RESTful APIs. | Node.js, Express.js, SQL | – | – |
+| 🚍 **Local Transport Ticketing** | Hardware-integrated ticketing system for queue management in public transport. | C++, Python, Embedded Systems | – | – |
 
-## Currently Exploring
-- React Server Components & Server Actions (Next.js 14+)  
-- Advanced animations with Framer Motion + GSAP  
-- Full-stack development with Supabase
-- Performance optimization (Lighthouse 100 scores) & Algorithmic efficiency (Data Structures in python/C++)  
+## 🌱 Currently Learning
+- React Server Components and Server Actions in Next.js 14+
+- Advanced animations using Framer Motion and GSAP
+- Full-stack workflows with Supabase for authentication and databases
+- Algorithmic problem-solving and data structures in Python/C++
+- Web performance optimization (aiming for Lighthouse scores of 100)
 
-## Fun Facts
-- Secured 3rd place in national math competitions
-- Started coding with Java in 2022  
+## 📫 Get in Touch
+- **Email**: bisratberiso@example.com  <!-- Replace with your actual email -->
+- **LinkedIn**: [linkedin.com/in/bisrat-beriso](https://www.linkedin.com/in/bisrat-beriso)
+- **Twitter/X**: [@bisratberiso](https://twitter.com/bisratberiso)  <!-- Add if available -->
 
-Made with ❤️ in Addis Ababa, Ethiopia  
-Last updated: November 2025
+Feel free to reach out for collaborations, opportunities, or discussions on tech!
+
+---
+
+Built with ❤️ in Addis Ababa, Ethiopia.  
+Last updated: January 2026
