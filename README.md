@@ -13,7 +13,7 @@ Addis Ababa, Ethiopia | B.Sc. in Software Engineering, Addis Ababa University (E
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+
 
 ## 👋 About Me
 Aspiring software engineer with a passion for crafting efficient, scalable, and user-focused applications. Currently pursuing a B.Sc. in Software Engineering at Addis Ababa University (2023–2028), where I've built a strong foundation in data structures, algorithms, object-oriented programming, databases, networking, and web development.
@@ -38,9 +38,9 @@ Selected projects demonstrating full-stack expertise, API integrations, and user
 | Project | Description | Technologies | Live Demo |
 |---------|-------------|--------------|-----------|
 | 🎥 **Tewnet** | Movie discovery app with search, reviews, watchlists, and TMDB API for real-time data—boosting user retention. | React, Tailwind CSS, TMDB API |[tewnet.vercel.app](https://tewnet.vercel.app) |
-| 🏠 **Hulet Fish** | Platform connecting travelers with local hosts in Ethiopia for authentic stays and cultural experiences. |React,JavaScript, Tailwind CSS,Node.js,Express,MongoDB | huletfish.vercel.app |
-| 🍕 **Pizzeria Paradiso** | Interactive pizzeria website offering authentic Italian wood-fired pizzas crafted with premium ingredients, blending traditional recipes and modern flavors, with a user-friendly welcome prompt. | React, Tailwind CSS, Redux Toolkit, Geocoding API | repizzaa.netlify.app |
-| 🎨 **ZYN Designs Co.** | Portfolio website for ZYN Interior Design (Addis Ababa). Includes services, portfolio, testimonials, and a contact form with EmailJS, showcasing luxury, craftsmanship, and personalized design. | React,vite,JavaScript,CSS3,Swiper,EmailJS,FontAwesome | [zyndesigns.co](https://zyndesigns.vercel.app/) |
+| 🏠 **Hulet Fish** | Platform connecting travelers with local hosts in Ethiopia for authentic stays and cultural experiences. |React, JavaScript, Tailwind, CSS, Node.js, Express, MongoDB | [HuletFish](https://huletfish.vercel.app/) |
+| 🍕 **Pizzeria Paradiso** | Interactive pizzeria website offering authentic Italian wood-fired pizzas crafted with premium ingredients, blending traditional recipes and modern flavors, with a user-friendly welcome prompt. | React, Tailwind CSS, Redux Toolkit, Geocoding API | [Pizeria Paradiso](https://repizzaa.netlify.app) |
+| 🎨 **ZYN Designs Co.** | Portfolio website for ZYN Interior Design (Addis Ababa). Includes services, portfolio, testimonials, and a contact form with EmailJS, showcasing luxury, craftsmanship, and personalized design. | React, vite, JavaScript, CSS3, Swiper, EmailJS, FontAwesome | [zyndesigns.co](https://zyndesigns.vercel.app/) |
 | ⚖️ **Legalink** | Secure legal case management tool with authentication, tracking, and RESTful APIs. | Node.js, Express.js, Postgress | – |
 | 🚍 **Local Transport Ticketing** | Hardware-integrated ticketing system for queue management in public transport. | Java, Embedded Systems(arduino) | – |
 
