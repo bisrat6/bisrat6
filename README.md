@@ -29,7 +29,6 @@ As an intern at iCog Labs, I contribute to AI-integrated tools and robotics R&D,
 - **Other Skills**: Embedded Systems, Version Control, Agile Methodologies, File I/O & Hashing (C++), Performance Optimization
 
 ## 📊 GitHub Stats
-![Bisrat's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=bisrat6&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)  
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bisrat6&theme=transparent&hide_border=true&layout=compact)
 
 
