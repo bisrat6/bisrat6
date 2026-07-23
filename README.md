@@ -15,7 +15,7 @@ Addis Ababa, Ethiopia | B.Sc. in Software Engineering, Addis Ababa University (E
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 
-## 👋 About Me
+##  About Me
 Aspiring software engineer with a passion for crafting efficient, scalable, and user-focused applications. Currently pursuing a B.Sc. in Software Engineering at Addis Ababa University (2023–2028), where I've built a strong foundation in data structures, algorithms, object-oriented programming, databases, networking, and web development.
 
 As an intern at iCog Labs, I contribute to AI-integrated tools and robotics R&D, applying full-stack development skills honed through experiences like the INSA Summer Camp (full-stack projects) and Foka STEM Center (software-hardware integration). I thrive on solving complex problems, optimizing performance, and delivering clean, maintainable code across the full software lifecycle—from ideation and design to testing and deployment.
@@ -32,26 +32,16 @@ As an intern at iCog Labs, I contribute to AI-integrated tools and robotics R&D,
 ![Bisrat's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=bisrat6&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)  
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bisrat6&theme=transparent&hide_border=true&layout=compact)
 
-## 🚀 Projects
-Selected projects demonstrating full-stack expertise, API integrations, and user-centric design:
 
-| Project | Description | Technologies | Live Demo |
-|---------|-------------|--------------|-----------|
-| 🎥 **Tewnet** | Movie discovery app with search, reviews, watchlists, and TMDB API for real-time data—boosting user retention. | React, Tailwind CSS, TMDB API |[tewnet.vercel.app](https://tewnet.vercel.app) |
-| 🏠 **Hulet Fish** | Platform connecting travelers with local hosts in Ethiopia for authentic stays and cultural experiences. |React, JavaScript, Tailwind, CSS, Node.js, Express, MongoDB | [HuletFish](https://huletfish.vercel.app/) |
-| 🍕 **Pizzeria Paradiso** | Interactive pizzeria website offering authentic Italian wood-fired pizzas crafted with premium ingredients, blending traditional recipes and modern flavors, with a user-friendly welcome prompt. | React, Tailwind CSS, Redux Toolkit, Geocoding API | [Pizeria Paradiso](https://repizzaa.netlify.app) |
-| 🎨 **ZYN Designs Co.** | Portfolio website for ZYN Interior Design (Addis Ababa). Includes services, portfolio, testimonials, and a contact form with EmailJS, showcasing luxury, craftsmanship, and personalized design. | React, vite, JavaScript, CSS3, Swiper, EmailJS, FontAwesome | [zyndesigns.co](https://zyndesigns.vercel.app/) |
-| ⚖️ **Legalink** | Secure legal case management tool with authentication, tracking, and RESTful APIs. | Node.js, Express.js, Postgress | – |
-| 🚍 **Local Transport Ticketing** | Hardware-integrated ticketing system for queue management in public transport. | Java, Embedded Systems(arduino) | – |
 
-## 🌱 Currently Learning
+##  Currently Learning
 - React Server Components and Server Actions in Next.js 14+
 - Advanced animations using Framer Motion and GSAP
 - Full-stack workflows with Supabase for authentication and databases
 - Algorithmic problem-solving and data structures in Python/C++
 - Web performance optimization (aiming for Lighthouse scores of 100)
 
-## 📫 Get in Touch
+##  Get in Touch
 - **Email**: bisratberiso@gmail.com
 - **LinkedIn**: [linkedin.com/in/bisrat-beriso](https://www.linkedin.com/in/bisrat-beriso)
 
